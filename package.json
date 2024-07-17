@@ -1,0 +1,23 @@
+{
+  "name": "imgly-cesdk-web-examples-umd3bt",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-scripts": "5.0.1",
+    "@cesdk/cesdk-js": "1.30.0",
+    "@testing-library/react": "11.2.7",
+    "@testing-library/jest-dom": "5.17.0",
+    "@testing-library/user-event": "12.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
